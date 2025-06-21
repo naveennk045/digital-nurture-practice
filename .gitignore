@@ -1,0 +1,29 @@
+# IntelliJ IDEA specific
+.idea/
+*.iml
+
+# Build output directories
+/out/
+target/
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java class files
+*.class
+
+# Maven and Gradle specific (if used)
+.mvn/
+!**/src/main/**/.gitkeep
+.gradle/
+*.jar
+*.war
+*.ear
+
+# Optional: VS Code (if you ever open the project with it)
+.vscode/
