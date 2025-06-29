@@ -1,13 +1,13 @@
-package com.mockito.Mocito;
+package com.Mockito.handsOn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MocitoApplication {
+public class MockitoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MocitoApplication.class, args);
+		SpringApplication.run(MockitoApplication.class, args);
 	}
 
 }
